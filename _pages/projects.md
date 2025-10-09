@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Michelle Paszek> - Portfolio
+title: Michelle Paszek - Portfolio
 permalink: /projects/
 ---
 
