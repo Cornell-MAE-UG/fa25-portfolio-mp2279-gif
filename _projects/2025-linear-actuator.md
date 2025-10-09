@@ -41,7 +41,7 @@ Using Pythagorean Theorem:
 - d_A = 8.0820 cm
 
 By Sum of Forces at pin Beta:
-<img src="assets/images/lin_act_math21.JPG" width="500" />
+<img "assets/images/lin_act_math21.JPG" width="500" />
 - F_L: 43.1131 kN
 - w = 143.4376 kN
 
@@ -61,4 +61,5 @@ FINAL VALUES:
 - F_A: 106.31 kN
 
 - w: 143.4376 kN
+
 
