@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Michelle Paszek
 description              : Michelle Paszek - Projects 
-baseurl                  : "fa25-portfolio-mp2279" # Set this to your repo name 
+baseurl                  : "fa25-portfolio-mp2279-gif" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
