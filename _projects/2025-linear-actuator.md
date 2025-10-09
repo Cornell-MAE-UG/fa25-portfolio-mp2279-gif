@@ -36,6 +36,8 @@ Here is a list of my design choices:
 Let's solve for the variables at h_max!
 
 Using Pythagorean Theorem:
+
+
 <img src="https://github.com/Cornell-MAE-UG/fa25-portfolio-mp2279-gif/blob/main/assets/images/lin_act_math1.JPG" width="500" />
 - Theta = 10.1817 degrees
 - Phi = 25.8419 degrees
@@ -43,6 +45,8 @@ Using Pythagorean Theorem:
 - d_A = 8.0820 cm
 
 By Sum of Forces at pin Beta:
+
+
 <img src="https://github.com/Cornell-MAE-UG/fa25-portfolio-mp2279-gif/blob/main/assets/images/lin_act_math2.JPG" width="500" />
 - F_L: 43.1131 kN
 - w = 143.4376 kN
@@ -62,6 +66,7 @@ FINAL VALUES:
 - F_L: 43.1131 kN
 - F_A: 106.31 kN
 - w: 143.4376 kN
+
 
 
 
