@@ -2,14 +2,14 @@
 layout: project
 title: Linear Actuator Design
 description: Class Project, Statics and Mechanics of Solids
-image: /assets/images/linear_actuator_sketch.jpg
+image: /assets/images/linear_actuator_sketch.JPG
 ---
 
 As part of a class project, I was asked to design a frame/mechanism that can lift the maximum possible weight to the maximum possible height, all while staying within a 2D design space of 150 cm long and 50 cm tall. The frame needed to consist of a rigid bar of fixed length, a linear actuator, and 3 pin supports (2 of which need to be mounted on the ground). 
 
 Here is my sketch design at the maximum linear actuator extension:
 
-![Frame Design when Actuator is at Full Extension]({{ "/assets/images/linear_actuator_sketch.jpg" | relative_url }}){: .inline-image-l}
+![Frame Design when Actuator is at Full Extension]({{ "/assets/images/linear_actuator_sketch.JPG" | relative_url }}){: .inline-image-l}
 
 <img src="/assets/images/linear_actuator_sketch.JPG" width="500" />
 
@@ -38,7 +38,7 @@ Let's solve for the variables at h_max!
 
 Using Pythagorean Theorem:
 
-![Here's my work]({{ "/assets/images/lin_act_math1.jpg" | relative_url }}){: .inline-image-l}
+![Here's my work]({{ "/assets/images/lin_act_math1.JPG" | relative_url }}){: .inline-image-l}
 
 <img src="/assets/images/lin_act_math1.JPG" width="500" />
 
@@ -50,7 +50,7 @@ Using Pythagorean Theorem:
 
 By Sum of Forces at pin Beta:
 
-![Here's my work]({{ "/assets/images/lin_act_math2.jpg" | relative_url }}){: .inline-image-l}
+![Here's my work]({{ "/assets/images/lin_act_math2.JPG" | relative_url }}){: .inline-image-l}
 
 <img src="/assets/images/lin_act_math2.JPG" width="500" />
 
@@ -73,6 +73,7 @@ FINAL VALUES:
 - F_L: 43.1131 kN
 - F_A: 106.31 kN
 - w: 143.4376 kN
+
 
 
 
