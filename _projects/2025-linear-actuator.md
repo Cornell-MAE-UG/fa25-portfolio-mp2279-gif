@@ -8,7 +8,7 @@ image: /assets/images/linear_actuator_sketch.jpg
 As part of a class project, I was asked to design a frame/mechanism that can lift the maximum possible weight to the maximum possible height, all while staying within a 2D design space of 150 cm long and 50 cm tall. The frame needed to consist of a rigid bar of fixed length, a linear actuator, and 3 pin supports (2 of which need to be mounted on the ground). 
 
 Here is my sketch design at the maximum linear actuator extension:
-![Frame Design when Actuator is at Full Extension]({{ "/assets/images/linear_actuator_sketch.jpg" | relative_url }}){: .inline-image-l}
+<img src="assets/images/linear_actuator_sketch.jpg" width="500" />
 
 These are my variable definitions:
 - L: length of rigid bar in cm
@@ -34,14 +34,14 @@ Here is a list of my design choices:
 Let's solve for the variables at h_max!
 
 Using Pythagorean Theorem:
-![Here's my work]({{ "/assets/images/lin_act_math1.jpg" | relative_url }}){: .inline-image-l}
+<img src="assets/images/lin_act_math1.jpg" width="500" />
 - Theta = 10.1817 degrees
 - Phi = 25.8419 degrees
 - d_L = 21.7945 cm
 - d_A = 8.0820 cm
 
 By Sum of Forces at pin Beta:
-![Here's my work]({{ "/assets/images/lin_act_math2.jpg" | relative_url }}){: .inline-image-l}
+<img src="assets/images/lin_act_math21.jpg" width="500" />
 - F_L: 43.1131 kN
 - w = 143.4376 kN
 
@@ -59,4 +59,5 @@ FINAL VALUES:
 - Theta: 10.1817 degrees
 - F_L: 43.1131 kN
 - F_A: 106.31 kN
+
 - w: 143.4376 kN
