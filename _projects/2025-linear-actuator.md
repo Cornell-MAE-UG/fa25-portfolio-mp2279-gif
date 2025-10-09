@@ -9,6 +9,7 @@ As part of a class project, I was asked to design a frame/mechanism that can lif
 
 Here is my sketch design at the maximum linear actuator extension:
 
+![Frame Design when Actuator is at Full Extension]({{ "/assets/images/linear_actuator_sketch.jpg" | relative_url }}){: .inline-image-l}
 
 <img src="https://github.com/Cornell-MAE-UG/fa25-portfolio-mp2279-gif/blob/main/assets/images/linear_actuator_sketch.JPG" width="500" />
 
@@ -37,6 +38,7 @@ Let's solve for the variables at h_max!
 
 Using Pythagorean Theorem:
 
+![Here's my work]({{ "/assets/images/lin_act_math1.jpg" | relative_url }}){: .inline-image-l}
 
 <img src="https://github.com/Cornell-MAE-UG/fa25-portfolio-mp2279-gif/blob/main/assets/images/lin_act_math1.JPG" width="500" />
 
@@ -48,6 +50,7 @@ Using Pythagorean Theorem:
 
 By Sum of Forces at pin Beta:
 
+![Here's my work]({{ "/assets/images/lin_act_math2.jpg" | relative_url }}){: .inline-image-l}
 
 <img src="https://github.com/Cornell-MAE-UG/fa25-portfolio-mp2279-gif/blob/main/assets/images/lin_act_math2.JPG" width="500" />
 
@@ -70,6 +73,7 @@ FINAL VALUES:
 - F_L: 43.1131 kN
 - F_A: 106.31 kN
 - w: 143.4376 kN
+
 
 
 
