@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Michelle Paszek - Portfolio
-permalink: /projects/
+permalink: https://github.com/Cornell-MAE-UG/fa25-portfolio-mp2279-gif/blob/main/projects/
 ---
 
 <div class="gallery-container">
