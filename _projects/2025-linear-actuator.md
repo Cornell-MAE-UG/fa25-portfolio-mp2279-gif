@@ -11,7 +11,7 @@ Here is my sketch design at the maximum linear actuator extension:
 
 ![Frame Design when Actuator is at Full Extension]({{ "/assets/images/linear_actuator_sketch.jpg" | relative_url }}){: .inline-image-l}
 
-<img src="https://github.com/Cornell-MAE-UG/fa25-portfolio-mp2279-gif/blob/main/assets/images/linear_actuator_sketch.JPG" width="500" />
+<img src="/assets/images/linear_actuator_sketch.JPG" width="500" />
 
 These are my variable definitions:
 - L: length of rigid bar in cm
@@ -40,7 +40,7 @@ Using Pythagorean Theorem:
 
 ![Here's my work]({{ "/assets/images/lin_act_math1.jpg" | relative_url }}){: .inline-image-l}
 
-<img src="https://github.com/Cornell-MAE-UG/fa25-portfolio-mp2279-gif/blob/main/assets/images/lin_act_math1.JPG" width="500" />
+<img src="/assets/images/lin_act_math1.JPG" width="500" />
 
 
 - Theta = 10.1817 degrees
@@ -52,7 +52,7 @@ By Sum of Forces at pin Beta:
 
 ![Here's my work]({{ "/assets/images/lin_act_math2.jpg" | relative_url }}){: .inline-image-l}
 
-<img src="https://github.com/Cornell-MAE-UG/fa25-portfolio-mp2279-gif/blob/main/assets/images/lin_act_math2.JPG" width="500" />
+<img src="/assets/images/lin_act_math2.JPG" width="500" />
 
 
 - F_L = 43.1131 kN
@@ -73,6 +73,7 @@ FINAL VALUES:
 - F_L: 43.1131 kN
 - F_A: 106.31 kN
 - w: 143.4376 kN
+
 
 
 
