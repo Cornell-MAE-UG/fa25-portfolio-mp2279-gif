@@ -39,6 +39,8 @@ Using Pythagorean Theorem:
 
 
 <img src="https://github.com/Cornell-MAE-UG/fa25-portfolio-mp2279-gif/blob/main/assets/images/lin_act_math1.JPG" width="500" />
+
+
 - Theta = 10.1817 degrees
 - Phi = 25.8419 degrees
 - d_L = 21.7945 cm
@@ -48,7 +50,9 @@ By Sum of Forces at pin Beta:
 
 
 <img src="https://github.com/Cornell-MAE-UG/fa25-portfolio-mp2279-gif/blob/main/assets/images/lin_act_math2.JPG" width="500" />
-- F_L: 43.1131 kN
+
+
+- F_L = 43.1131 kN
 - w = 143.4376 kN
 
 Summary:
@@ -66,6 +70,7 @@ FINAL VALUES:
 - F_L: 43.1131 kN
 - F_A: 106.31 kN
 - w: 143.4376 kN
+
 
 
 
