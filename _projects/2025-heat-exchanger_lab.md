@@ -35,4 +35,14 @@ Specifically looking at the heat exchanger as a Control Volume, we can assume th
 If we perform an energy balance on the heat exchanger, assuming it is operating adiabatically at steady state with no work input or output, we can see that ideally, the temperature of one fluid will increase by the same amount that the other will decrease by.
 
 ![Entropy Balance]({{ "/assets/images/Entropy-Balance.JPG" | relative_url }}){: .inline-image-l}
-If we do an entropy balance on the heat exchanger, again assuming adiabatic stead-state operation, we can see that the entropy generated will be equal to the sum of the change in entropy in both fluids multiplied by the mass flow rate of the heat exchanger.
+If we do an entropy balance on the heat exchanger, again assuming adiabatic steady-state operation, we can see that the entropy generated will be equal to the sum of the change in entropy in both fluids multiplied by the mass flow rate of the heat exchanger.
+
+During the lab, I observed the effects of changing the flow directionality (same or opposite) in addition to changing the temperature that the hot reservior was set to (specifically either 40.0 degrees Celsius or 35.0 degrees Celsius). Here is my data from these experiments:
+
+Same Direction of Flow:
+The first run started the hot reservior at 40.0 degrees Celsius (flow A), with the cold reservior at 6.8 degrees Celsius (flow B). The output of flow A was at 24.6 degrees Celsius, while the output of flow B was at 15.9 degrees Celsius.
+The second run started the hot reservior at 35.0 degrees Celsius (flow A), with the cold reservior at 8.7 degrees Celsius (flow B). The output of flow A was at 23.7 degrees Celsius, while the output of flow B was at 21.1 degrees Celsius.
+
+Opposite Direction of Flow:
+The third run started the hot reservior at 40.0 degrees Celsius (flow A), with the cold reservior at 10.0 degrees Celsius (flow B). The output of flow A was at 19.6 degrees Celsius, while the output of flow B was at 23.9 degrees Celsius.
+The fourth run started the hot reservior at 35.0 degrees Celsius (flow A), with the cold reservior at 9.2 degrees Celsius (flow B). The output of flow A was at 18.4 degrees Celsius, while the output of flow B was at 22.1 degrees Celsius.
