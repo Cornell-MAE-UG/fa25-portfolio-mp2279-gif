@@ -25,5 +25,10 @@ Same directional flow means that both fluids are moving in the same direction (i
 Here is an image of the experimental setup with a cross-directional flow.
 Cross directional flow means that the fluids are moving in directions opposite to each other (in this image, the blue fluid moves from left to right, while the red fluid moves from right to left).
 
+![Schematics]({{ "/assets/images/Schematic.JPG" | relative_url }}){: .inline-image-l}
+Here are drawn schematics of both the same directional flow setup and the cross directional flow setup, where Tc refers to the cold reservior, Th refers to the hot reservoir, and m dot refers to the mass flow rates through the exchanger. Since the hot reservior is maintained via an immersion heater, there is a rate of heat flow Qh into the hot reservior. The two pumps also run on electrical power, so there is a rate of work transfer into both pumps as a result.
+
+![CV Diagram]({{ "/assets/images/CV-Diagram.JPG" | relative_url }}){: .inline-image-l}
+Specifically looking at the heat exchanger as a Control Volume, we can assume that it is adiabatic (no heat transfer with surroundings), with no work rate since there are no moving parts (i.e. no shaft work, no rotors, etc.). We can also assume steady state flow, where the mass flow rate into the heat exchanger equals the mass flow rate out of the heat exchanger. 
 
 
