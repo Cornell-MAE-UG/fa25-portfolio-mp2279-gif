@@ -16,15 +16,13 @@ Here's a view of the cross sectional area of a heat exchanger, where tubes will 
 In this lab, the heat exchanger had a hot water source maintained by an attached immersion heaters in addition to a cold water source kept cool via ice and insulation surrounding the container. The two fluids were differentiated by food dye, with red coloring for the hot reservoir and blue coloring for the cold reservior.
 The heat exchanger has a known mass flow rate of 210 gal/hr, so we tested the effects of same direction vs cross direction flow in addition to altering the initial temperature difference between the two reservoirs.
 
-Here is an image of the experimental setup with a same-directional flow:
-
 ![Same Direction Flow]({{ "/assets/images/Same_Flow.JPG" | relative_url }}){: .inline-image-l}
+Here is an image of the experimental setup with a same-directional flow:
+Same directional flow means that both fluids are moving in the same direction (in this image, both move from the left side to the right side).
 
-
-Here is an image of the experimental setup with a cross-directional flow:
 
 ![Cross Direction Flow]({{ "/assets/images/Cross_Flow.JPG" | relative_url }}){: .inline-image-l}
-
-
+Here is an image of the experimental setup with a cross-directional flow:
+Cross directional flow means that the fluids are moving in directions opposite to each other (in this image, the blue fluid moves from left to right, while the red fluid moves from right to left).
 
 
