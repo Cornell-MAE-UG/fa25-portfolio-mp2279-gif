@@ -51,3 +51,16 @@ The third run started the hot reservior at 40.0 degrees Celsius (flow A), with t
 
 The fourth run started the hot reservior at 35.0 degrees Celsius (flow A), with the cold reservior at 9.2 degrees Celsius (flow B). The output of flow A was at 18.4 degrees Celsius, while the output of flow B was at 22.1 degrees Celsius.
 
+We can judge performance based on the average temperature changes from the input flows to the output flows.
+
+The same direction flow with Th = 40 degrees C had a temperature change of -15.4 across A and +9.1 across B, averaging to 12.25 degrees.
+
+The same direction flow with Th = 35 degrees C has a temperature change of -11.3 across A and +12.4 across B, averaging to 11.85 degrees.
+
+The cross direction flow with Th = 40 degrees C has a temperature change of -20.4 across A and +13.9 across B, averaging to 17.15 degrees.
+
+The cross direction flow with Th = 35 degrees C has a temperature change of -16.6 across A and +12.9 across B, averaging to 14.75 degrees.
+
+Overall, we can see that cross directional flow has a higher performance than the same direction flow, since we can see a greater temperature difference between the input and the output temperatures. We can also observe that a higher Th reservior temperature causes a slightly greater temperature difference between the inputs and outputs.
+
+
