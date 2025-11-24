@@ -31,4 +31,8 @@ Here are drawn schematics of both the same directional flow setup and the cross 
 ![CV Diagram]({{ "/assets/images/CV-Diagram.JPG" | relative_url }}){: .inline-image-l}
 Specifically looking at the heat exchanger as a Control Volume, we can assume that it is adiabatic (no heat transfer with surroundings), with no work rate since there are no moving parts (i.e. no shaft work, no rotors, etc.). We can also assume steady state flow, where the mass flow rate into the heat exchanger equals the mass flow rate out of the heat exchanger. 
 
+![Energy Balance]({{ "/assets/images/Energy-Balance.JPG" | relative_url }}){: .inline-image-l}
+If we perform an energy balance on the heat exchanger, assuming it is operating adiabatically at steady state with no work input or output, we can see that ideally, the temperature of one fluid will increase by the same amount that the other will decrease by.
 
+![Entropy Balance]({{ "/assets/images/Entropy-Balance.JPG" | relative_url }}){: .inline-image-l}
+If we do an entropy balance on the heat exchanger, again assuming adiabatic stead-state operation, we can see that the entropy generated will be equal to the sum of the change in entropy in both fluids multiplied by the mass flow rate of the heat exchanger.
