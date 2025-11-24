@@ -2,6 +2,7 @@
 layout: project
 title: Heat Exchanger Lab
 description: Class Project, Thermodynamics
+technologies: [Heat Exchanger]
 image: /assets/images/Heat_Exchanger_Full.JPG
 ---
 
@@ -17,4 +18,5 @@ The heat exchanger has a known mass flow rate of 210 gal/hr, so we tested the ef
 
 Here are images of the initial setup:
 ![Same Direction Flow]({{ "/assets/images/Same_Flow.JPG" | relative_url }}){: .inline-image-l}
+
 ![Cross Direction Flow]({{ "/assets/images/Cross_Flow.JPG" | relative_url }}){: .inline-image-l}
