@@ -20,7 +20,7 @@ Here are images of the initial setup:
 ![Same Direction Flow]({{ "/assets/images/Same_Flow.JPG" | relative_url }}){: .inline-image-l}
 ![Cross Direction Flow]({{ "/assets/images/Cross_Flow.JPG" | relative_url }}){: .inline-image-l}
 
-
+![Frame Design when Actuator is at Full Extension]({{ "/assets/images/linear_actuator_sketch.JPG" | relative_url }}){: .inline-image-l}
 
 
 
