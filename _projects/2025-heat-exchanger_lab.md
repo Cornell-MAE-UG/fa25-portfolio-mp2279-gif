@@ -17,13 +17,14 @@ In this lab, the heat exchanger had a hot water source maintained by an attached
 The heat exchanger has a known mass flow rate of 210 gal/hr, so we tested the effects of same direction vs cross direction flow in addition to altering the initial temperature difference between the two reservoirs.
 
 Here is an image of the experimental setup with a same-directional flow:
+
 ![Same Direction Flow]({{ "/assets/images/Same_Flow.JPG" | relative_url }}){: .inline-image-l}
 
 
-
-
 Here is an image of the experimental setup with a cross-directional flow:
+
 ![Cross Direction Flow]({{ "/assets/images/Cross_Flow.JPG" | relative_url }}){: .inline-image-l}
+
 
 
 
