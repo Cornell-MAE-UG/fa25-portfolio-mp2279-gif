@@ -13,10 +13,16 @@ A heat exchanger is a device that transfers heat between the flow of two fluids 
 Here's a view of the cross sectional area of a heat exchanger, where tubes will bring in two different fluids at different temperatures which will flow through the heat exchanger, transferrring heat via the metal barrier separating the two.
 ![Heat Exchanger Cross Section]({{ "/assets/images/Heat_Exchanger_Cross_Section.JPG" | relative_url }}){: .inline-image-l}
 
+
+
+
+
+
+
 In this lab, the heat exchanger had a hot water source maintained by an attached immersion heaters in addition to a cold water source kept cool via ice and insulation surrounding the container. The two fluids were differentiated by food dye, with red coloring for the hot reservoir and blue coloring for the cold reservior.
 The heat exchanger has a known mass flow rate of 210 gal/hr, so we tested the effects of same direction vs cross direction flow in addition to altering the initial temperature difference between the two reservoirs.
 
 Here are images of the initial setup:
 ![Same Direction Flow]({{ "/assets/images/Same_Flow.JPG" | relative_url }}){: .inline-image-l}
-
 ![Cross Direction Flow]({{ "/assets/images/Cross_Flow.JPG" | relative_url }}){: .inline-image-l}
+
