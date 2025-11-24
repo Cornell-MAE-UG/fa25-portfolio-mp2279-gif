@@ -39,6 +39,8 @@ If we do an entropy balance on the heat exchanger, again assuming adiabatic stea
 
 During the lab, I observed the effects of changing the flow directionality (same or opposite) in addition to changing the temperature that the hot reservior was set to (specifically either 40.0 degrees Celsius or 35.0 degrees Celsius). Here is my data from these experiments:
 
+![Chart Summary]({{ "/assets/images/Thermo_Full_Table.JPG" | relative_url }}){: .inline-image-l}
+
 Same Direction of Flow:
 
 The first run started the hot reservior at 40.0 degrees Celsius (flow A), with the cold reservior at 6.8 degrees Celsius (flow B). The output of flow A was at 24.6 degrees Celsius, while the output of flow B was at 15.9 degrees Celsius.
@@ -65,6 +67,7 @@ The cross direction flow with Th = 35 degrees C has a temperature change of -16.
 Overall, we can see that cross directional flow has a higher performance than the same direction flow, since we can see a greater temperature difference between the input and the output temperatures. We can also observe that a higher Th reservior temperature causes a slightly greater temperature difference between the inputs and outputs.
 
 This experimental setup could be improved in the future by taking multiple runs for each case, which can effectively average out potential errors in the data collected. It might also be beneficial to improve the setup by insulating the tubing and each of the buckets, to effectively prevent heat transfer between each bucket and the environment, giving more accurate temperature readings as a result. To improve precision, it may be worth researching other ways to maintain the cold reservior at a constant temperature between different runs.
+
 
 
 
