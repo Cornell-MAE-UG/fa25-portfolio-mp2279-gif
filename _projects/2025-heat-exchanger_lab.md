@@ -64,5 +64,8 @@ The cross direction flow with Th = 35 degrees C has a temperature change of -16.
 
 Overall, we can see that cross directional flow has a higher performance than the same direction flow, since we can see a greater temperature difference between the input and the output temperatures. We can also observe that a higher Th reservior temperature causes a slightly greater temperature difference between the inputs and outputs.
 
+This experimental setup could be improved in the future by taking multiple runs for each case, which can effectively average out potential errors in the data collected. It might also be beneficial to improve the setup by insulating the tubing and each of the buckets, to effectively prevent heat transfer between each bucket and the environment, giving more accurate temperature readings as a result. To improve precision, it may be worth researching other ways to maintain the cold reservior at a constant temperature between different runs.
+
+
 
 
