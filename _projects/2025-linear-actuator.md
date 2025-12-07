@@ -11,6 +11,7 @@ As part of a class project, I was asked to design a frame/mechanism that can lif
 Here is my sketch design at the maximum linear actuator extension:
 
 ![Frame Design when Actuator is at Full Extension]({{ "/assets/images/linear_actuator_sketch.JPG" | relative_url }}){: .inline-image-l}
+My design features a rigid beam of length L that is mounted to ground and pinned to a linear actuator of maximum length A (which is also mounted to ground). The load will be applied to the structure at pin Beta, and the device will lift this weight by extending the linear actuator on a certain line in the xy-plane, giving it one degree of freedom.
 
 These are my variable definitions:
 - L: length of rigid bar in cm
@@ -33,12 +34,13 @@ Here is a list of my design choices:
 - L was arbitrarily set to 50 cm. This was so I could stay within the design space while still maintaining a relatively large h_max. In addition, I didn't want to make L too long (in the horizontal direction) and risk the structure failing since I can't add in any more members to the frame due to class prompt constraints.
 - I decided to aim for a h_max of 45.0 cm, which seemed reasonable because the max length of the linear actuator was 45.72 cm, and by Pythagorean Theorem, the hypotenuse of the triangle produced by A, h_max, and d_A cannot be smaller than any of its sides (in this case actuator length A limits hypothenuse h_max).
 
-Let's solve for the variables at h_max!
+Let's solve for the variables at h_max! 
+We can conduct static analysis on the device to solve for unknown variables, specifically using Pythagorean Theorem to solve for Theta, Phi, d_L, and d_A as well as a Force Balance at pin Beta to solve for F_L and w.
 
-Using Pythagorean Theorem:
 
 ![Here's my work]({{ "/assets/images/lin_act_math1.JPG" | relative_url }}){: .inline-image-l}
 
+Using Pythagorean Theorem:
 
 - Theta = 10.1817 degrees
 - Phi = 25.8419 degrees
@@ -68,6 +70,7 @@ FINAL VALUES:
 - F_L: 43.1131 kN
 - F_A: 106.31 kN
 - w: 143.4376 kN
+
 
 
 
