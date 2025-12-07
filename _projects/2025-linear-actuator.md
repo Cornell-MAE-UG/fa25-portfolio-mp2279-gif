@@ -2,7 +2,7 @@
 layout: project
 title: Linear Actuator Design
 description: Class Project, Statics and Mechanics of Solids
-technologies: [Designing, Moment Balance, Force Balance]
+technologies: [Designing, Linear Actuator, Force Balance, Beam Deflection]
 image: /assets/images/linear_actuator_sketch.JPG
 ---
 
@@ -69,6 +69,7 @@ FINAL VALUES POST STATIC ANALYSIS:
 - F_L: 43.1131 kN
 - F_A: 106.31 kN
 - w: 143.4376 kN
+
 
 
 
