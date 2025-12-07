@@ -57,7 +57,7 @@ By Sum of Forces at pin Beta:
 Summary:
 - My design is able to lift up a 143.4376 kN load to a maximum possible height of 45 cm. This seems like a reasonable output, since the linear actuator itself can support 106.31 kN, and the rigid rod would support the rest of the load due to the triangular geometry of the structure. The lift height is also fairly tall, since I am working within a 50 cm limit.
 
-FINAL VALUES:
+FINAL VALUES POST STATIC ANALYSIS:
 - L: 50 cm
 - A: 45.72 cm
 - h_max: 45 cm
@@ -69,6 +69,7 @@ FINAL VALUES:
 - F_L: 43.1131 kN
 - F_A: 106.31 kN
 - w: 143.4376 kN
+
 
 
 
