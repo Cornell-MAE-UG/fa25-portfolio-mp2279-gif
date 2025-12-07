@@ -11,7 +11,7 @@ As part of a class project, I was asked to design a frame/mechanism that can lif
 Here is my sketch design at the maximum linear actuator extension:
 
 ![Frame Design when Actuator is at Full Extension]({{ "/assets/images/linear_actuator_sketch.JPG" | relative_url }}){: .inline-image-l}
-My design features a rigid beam of length L that is mounted to ground and pinned to a linear actuator of maximum length A (which is also mounted to ground). The load will be applied to the structure at pin Beta, and the device will lift this weight by extending the linear actuator on a certain line in the xy-plane, giving it one degree of freedom.
+My design features a rigid beam of length L that is mounted to ground and pinned to a linear actuator of maximum length A (which is also mounted to ground). The load will be applied to the structure at pin Beta, and the device will lift this weight by extending the linear actuator on a line in the xy-plane, giving it one degree of freedom.
 
 These are my variable definitions:
 - L: length of rigid bar in cm
@@ -69,6 +69,7 @@ FINAL VALUES:
 - F_L: 43.1131 kN
 - F_A: 106.31 kN
 - w: 143.4376 kN
+
 
 
 
