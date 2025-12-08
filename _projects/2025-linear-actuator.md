@@ -91,6 +91,7 @@ Now let's find the internal loads:
 - T_I = 0
 - V_I = 34.86876157 kN
 - M_I(x) = (17434.38079-34868.76157x) Nm
+
 As a preliminary check, we can see that M_I(0) = 17.43438079 kNm = M_r, which makes sense since this is the fixed end with a now known moment. We can also see that M_I(0.5) = 0, which makes sense for the free end.
 
 ![Bend Analysis]({{ "/assets/images/Bend_Analysis.jpg" | relative_url }}){: .inline-image-l}
@@ -121,6 +122,7 @@ Here is a final drawing of the cross section of the beam:
 
 ![Cross Section]({{ "/assets/images/Beam_Cross_Section.jpg" | relative_url }}){: .inline-image-l}
 In summary, the design of the final beam has a length of 0.5 m, has the shape of a C150x12.2 beam, and is made of Magnesium Alloy AZ31.
+
 
 
 
