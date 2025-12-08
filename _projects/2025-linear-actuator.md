@@ -6,7 +6,7 @@ technologies: [Designing, Linear Actuator, Force Balance, Beam Deflection, Beam 
 image: /assets/images/linear_actuator_sketch.JPG
 ---
 
-As part of a class project, I was asked to design a frame/mechanism that can lift the maximum possible weight to the maximum possible height, all while staying within a 2D design space of 150 cm long and 50 cm tall. The frame needed to consist of a rigid bar of fixed length, a linear actuator, and 3 pin supports (2 of which need to be mounted on the ground). As an addition to this assignment, I will then look at the design with a non-rigid beam and do beam bending analysis, ultimately choosing a material type and beam shape to satisfy the condition that beam deflection cannot be greater than 2% of its length while still being as mass efficient as possible. Additionally, I will conduct a beam buckling analysis on this design.
+As part of a class project, I was asked to design a frame/mechanism that can lift the maximum possible weight to the maximum possible height, all while staying within a 2D design space of 150 cm long and 50 cm tall. The frame needed to consist of a rigid bar of fixed length, a linear actuator, and 3 pin supports (2 of which need to be mounted on the ground). As an addition to this assignment, I will look at the design with a non-rigid beam and do beam bending analysis, ultimately choosing a material type and beam shape to satisfy the condition that beam deflection cannot be greater than 2% of its length while still being as mass efficient as possible. Additionally, I will conduct a beam buckling analysis on this design.
 
 Here is my sketch design at the maximum linear actuator extension:
 
@@ -121,6 +121,7 @@ Here is a final drawing of the cross section of the beam:
 
 ![Cross Section]({{ "/assets/images/Beam_Cross_Section.jpg" | relative_url }}){: .inline-image-l}
 In summary, the design of the final beam has a length of 0.5 m, has the shape of a C150x12.2 beam, and is made of Magnesium Alloy AZ31.
+
 
 
 
