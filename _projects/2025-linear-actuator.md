@@ -102,10 +102,12 @@ EIy = 8717.190395x^2 - 5811.460263x^3
 The maximum deflection in the beam will occur at x = L = 50 cm = 0.5 m. Plugging this x value into the equation found above, we can see that y_max = 1452.865066/(EI) m.
 
 Due to the truss-like nature of my design, it makes the most sense to do a beam buckling analysis, as depicted below:
+
 ![Buckling Analysis]({{ "/assets/images/Beam_Buckling.jpg" | relative_url }}){: .inline-image-l}
 Taking the critical load to be w = 143.4376 kN and Leq = L = 0.5 m (since the bar is in the pinned-pinned configuration), we can find that EI would have to be 3633.316853 Nm^2.
 
 We should also check this with the minimum EI value needed for beam deflection to be less than 2% of its length.
+
 ![ymax]({{ "/assets/images/Beam_bend_ymax.jpg" | relative_url }}){: .inline-image-l}
 This bending analysis gives an EI value of 145286.5066 Nm^2. To satisfy both bending and buckling cases, EI should have a value of at least 145286.5066 Nm^2.
 
@@ -114,6 +116,7 @@ Now, here's my Excel Spreadsheet of various material choices coupled with potent
 ![Excel Sheet]({{ "/assets/images/Statics_Beam_Excel.jpg" | relative_url }}){: .inline-image-l}
 
 I calculated EI and the weight for each choice, ultimately finding that the best solution was a C150X12.2 beam made of Magnesium Alloy AZ31 for its light weight of 1.36290 kg and EI value of 245250 Nm^2. This combination was the most light-weight choice of the list, and it satisfied the condition that EI >= 145286.5066 Nm^2.
+
 
 
 
