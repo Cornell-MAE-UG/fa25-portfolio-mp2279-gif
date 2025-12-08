@@ -70,6 +70,17 @@ FINAL VALUES POST STATIC ANALYSIS:
 - F_A: 106.31 kN
 - w: 143.4376 kN
 
+Now it's time to do some beam deflection analysis, no longer treating the bar as rigid. Instead, the beam will bend due to the combined forces of the applied load and the actuator force.
+
+Since the bar is a two force member that is pinned at both ends, there should in theory be no bending due to a lack of shear forces or internal moments. For the sake of this assignment, however, the system can be modeled like so:
+
+![Drawing of Approximation]({{ "/assets/images/lin_act_math2.JPG" | relative_url }}){: .inline-image-l}
+
+This drawing features the bar of length L with a fixed support on the left and a free end on the right. The fixed support represents pin Alpha (connecting L and ground), with the assumption that the forces applied will NOT cause the bar to rotate about Alpha. This helps to simplify analysis by keeping the bar in static equalibrium. The free end, on the other hand, is a representation of what is occuring at Beta (treating the pin and the bar as one object) transverse/perpendicular to the beam. Force F is a sum of the transverse components of load w and actuator force F_A, which again simplifies analysis.
+
+F was found to be equivalent to -34.86876157 kN.
+
+
 
 
 
