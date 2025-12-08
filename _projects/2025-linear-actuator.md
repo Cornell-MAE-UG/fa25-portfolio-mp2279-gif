@@ -2,7 +2,7 @@
 layout: project
 title: Linear Actuator Design
 description: Class Project, Statics and Mechanics of Solids
-technologies: [Designing, Linear Actuator, Force Balance, Beam Deflection]
+technologies: [Designing, Linear Actuator, Force Balance, Beam Deflection, Beam Buckling]
 image: /assets/images/linear_actuator_sketch.JPG
 ---
 
@@ -80,10 +80,26 @@ This drawing features the bar of length L with a fixed support on the left and a
 
 F was found to be equivalent to -34.86876157 kN.
 
+![FBD]({{ "/assets/images/Bend_FBD_Full.jpg" | relative_url }}){: .inline-image-l}
+Here is a free body diagram of the beam approximation. Solving for the reaction forces:
+- R_x = 0
+- R_y = 34.86876157 kN
+- M_r = 17.43438079 kNm
 
+![FBD - internal loads]({{ "/assets/images/Bend_FBD_Int.jpg" | relative_url }}){: .inline-image-l}
+Now let's find the internal loads:
+- T_I = 0
+- V_I = 34.86876157 kN
+- M_I(x) = (17434.38079-34868.76157x) Nm
+As a preliminary check, we can see that M_I(0) = 17.43438079 kNm = M_r, which makes sense since this is the fixed end with a now known moment. We can also see that M_I(0.5) = 0, which makes sense for the free end.
 
+![Bend Analysis]({{ "/assets/images/Bend_Analysis.jpg" | relative_url }}){: .inline-image-l}
+We can use the relationship EIy''(x) = M(x) to find function y(x), which is the Equation of the Elastic Curve and corresponds to the deflection of the beam at a given x value. The boundary conditons used for this approximation are y'(0) = 0 and y(0) = 0, since the beam will not move or change slope at the fixed end. 
+To summarize: 
+EIy = 8717.190395x^2 - 5811.460263x^3
 
-
+![Deflection Max]({{ "/assets/images/Max_Deflection.jpg" | relative_url }}){: .inline-image-l}
+The maximum deflection in the beam will occur at x = L = 50 cm = 0.5 m. Plugging this x value into the equation found above, we can see that y_max = 1452.865066/(EI) m.
 
 
 
