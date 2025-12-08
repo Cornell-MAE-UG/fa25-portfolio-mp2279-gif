@@ -109,11 +109,12 @@ We should also check this with the minimum EI value needed for beam deflection t
 ![ymax]({{ "/assets/images/Beam_bend_ymax.jpg" | relative_url }}){: .inline-image-l}
 This bending analysis gives an EI value of 145286.5066 Nm^2. To satisfy both bending and buckling cases, EI should have a value of at least 145286.5066 Nm^2.
 
-Now, here's my Excel Spreadsheet of various material choices coupled with potential beam shapes (information sourced from Appendices C and D from "Statics and Mechanics of Materials: Third Edition" by Ferdinand P. Beer, E. Russell Johnston Jr., John T. DeWolf, and David F. Mazurek. 
+Now, here's my Excel Spreadsheet of various material choices coupled with potential beam shapes (information sourced from Appendices C and D from "Statics and Mechanics of Materials: Third Edition" by Ferdinand P. Beer, E. Russell Johnston Jr., John T. DeWolf, and David F. Mazurek). 
 
 ![Excel Sheet]({{ "/assets/images/Statics_Beam_Excel.jpg" | relative_url }}){: .inline-image-l}
 
 I calculated EI and the weight for each choice, ultimately finding that the best solution was a C150X12.2 beam made of Magnesium Alloy AZ31 for its light weight of 1.36290 kg and EI value of 245250 Nm^2. This combination was the most light-weight choice of the list, and it satisfied the condition that EI >= 145286.5066 Nm^2.
+
 
 
 
