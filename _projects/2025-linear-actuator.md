@@ -118,8 +118,10 @@ Now, here's my Excel Spreadsheet of various material choices coupled with potent
 I calculated EI and the weight for each choice, ultimately finding that the best solution was a C150x12.2 beam made of Magnesium Alloy AZ31 for its light weight of 1.36290 kg and EI value of 245250 Nm^2. This combination was the most light-weight choice of the list, and it satisfied the condition that EI >= 145286.5066 Nm^2.
 
 Here is a final drawing of the cross section of the beam:
+
 ![Cross Section]({{ "/assets/images/Beam_Cross_Section.jpg" | relative_url }}){: .inline-image-l}
 In summary, the design of the final beam has a length of 0.5 m, has the shape of a C150x12.2 beam, and is made of Magnesium Alloy AZ31.
+
 
 
 
