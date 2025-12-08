@@ -6,7 +6,7 @@ technologies: [Designing, Linear Actuator, Force Balance, Beam Deflection, Beam 
 image: /assets/images/linear_actuator_sketch.JPG
 ---
 
-As part of a class project, I was asked to design a frame/mechanism that can lift the maximum possible weight to the maximum possible height, all while staying within a 2D design space of 150 cm long and 50 cm tall. The frame needed to consist of a rigid bar of fixed length, a linear actuator, and 3 pin supports (2 of which need to be mounted on the ground). 
+As part of a class project, I was asked to design a frame/mechanism that can lift the maximum possible weight to the maximum possible height, all while staying within a 2D design space of 150 cm long and 50 cm tall. The frame needed to consist of a rigid bar of fixed length, a linear actuator, and 3 pin supports (2 of which need to be mounted on the ground). As an addition to this assignment, I will then look at the design with a non-rigid beam and do beam bending analysis, ultimately choosing a material type and beam shape to satisfy the condition that beam deflection cannot be greater than 2% of its length while still being as mass efficient as possible. Additionally, I will conduct a beam buckling analysis on this design.
 
 Here is my sketch design at the maximum linear actuator extension:
 
@@ -101,10 +101,19 @@ EIy = 8717.190395x^2 - 5811.460263x^3
 ![Deflection Max]({{ "/assets/images/Max_Deflection.jpg" | relative_url }}){: .inline-image-l}
 The maximum deflection in the beam will occur at x = L = 50 cm = 0.5 m. Plugging this x value into the equation found above, we can see that y_max = 1452.865066/(EI) m.
 
+Due to the truss-like nature of my design, it makes the most sense to do a beam buckling analysis, as depicted below:
+![Buckling Analysis]({{ "/assets/images/Beam_Buckling.jpg" | relative_url }}){: .inline-image-l}
+Taking the critical load to be w = 143.4376 kN and Leq = L = 0.5 m (since the bar is in the pinned-pinned configuration), we can find that EI would have to be 3633.316853 Nm^2.
+
+We should also check this with the minimum EI value needed for beam deflection to be less than 2% of its length.
+![ymax]({{ "/assets/images/Beam_bend_ymax.jpg" | relative_url }}){: .inline-image-l}
+This bending analysis gives an EI value of 145286.5066 Nm^2. To satisfy both bending and buckling cases, EI should have a value of at least 145286.5066 Nm^2.
+
+Now, here's my Excel Spreadsheet of various material choices coupled with potential beam shapes (information sourced from Appendices C and D from "Statics and Mechanics of Materials: Third Edition" by Ferdinand P. Beer, E. Russell Johnston Jr., John T. DeWolf, and David F. Mazurek. 
 
 
 
-
+I calculated EI and the weight for each choice, ultimately finding that the best solution was a C150X12.2 beam made of Magnesium Alloy AZ31 for its light weight of 1.36290 kg and EI value of 245250 Nm^2. This combination was the most light-weight choice of the list, and it satisfied the condition that EI >= 145286.5066 Nm^2.
 
 
 
