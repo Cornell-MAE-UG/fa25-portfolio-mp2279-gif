@@ -48,11 +48,11 @@ Key risks / unknowns:
 Our questions:
 
 1. When dealing with the SLFs, do they often stay on the vine when removing grapes?
-Decisions Affected: This would change our blower design, as we would need to prototype to make sure that we do not remove grapes as well as the SLFs.
+- Decisions Affected: This would change our blower design, as we would need to prototype to make sure that we do not remove grapes as well as the SLFs.
 2. If SLF contamination occurs in grape products, do the machines in the processing facilities need to be shut down and cleaned afterwards?
-Decisions Affected: While this would not directly affect our decision making, this would clarify the impact on the end user, since we would be more aware of the negative impacts of SLF contamination, particularly in the cost of and time lost to temporarily shutting down facilities.
+- Decisions Affected: While this would not directly affect our decision making, this would clarify the impact on the end user, since we would be more aware of the negative impacts of SLF contamination, particularly in the cost of and time lost to temporarily shutting down facilities.
 3. Is there space in the fields to place a structure such as a tower?
-Decisions Affected: If we are not able to place something in the field, we may not be able to implement our vibration solution in the currently intended method.
+- Decisions Affected: If we are not able to place something in the field, we may not be able to implement our vibration solution in the currently intended method.
 
 
 Sources Cited:
@@ -62,6 +62,7 @@ https://www.ars.usda.gov/research/publications/publication/?seqNo115=392118
 
 SLF needed to contaminate 1 kg slurry:
 Professor Steve Heim on Monday, February 9th during the PM lab section
+
 
 
 
