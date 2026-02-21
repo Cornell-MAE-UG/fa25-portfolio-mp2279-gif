@@ -22,27 +22,27 @@ If we reduce the amount of SLF present in the crop yield, we will be able to hel
 Proposed Directions: 
 
 Concept A: Blower; A system of devices attached to the front of the harvester to blow the SLF off of the vines before they can enter the harvester. This could be similar to the end of a car wash, but less strong.
-Attached in front of the harvester pointing outward toward the grape vines. 
-A fan would blow a steady stream of air toward the vines, causing the SLF to fly outwards to avoid the irritation. 
-The flow of air would also stop the SLF from flying into the harvester after they left the vine. 
-This is better than the “status quo” of using chemicals to deter or remove SLF from the grapes, since the chemicals may end up contaminating the grape product, making it unusable.
-This is better than the “status quo” in the way that it doesn’t just scare away bugs but physically moves them to a singular destination and traps them.
+1) Attached in front of the harvester pointing outward toward the grape vines.
+2) A fan would blow a steady stream of air toward the vines, causing the SLF to fly outwards to avoid the irritation.
+3) The flow of air would also stop the SLF from flying into the harvester after they left the vine. 
+- This is better than the “status quo” of using chemicals to deter or remove SLF from the grapes, since the chemicals may end up contaminating the grape product, making it unusable.
+- This is better than the “status quo” in the way that it doesn’t just scare away bugs but physically moves them to a singular destination and traps them.
 
 Concept B: Vibration Attraction Device; A set of towers vibrating at 60 Hz placed around the field to attract the SLF to liquid chemical traps. 
-Towers with mechanical vibration devices to attract the SLF.
-An electrified outer cage to shock the SLF when they touch the trap.
-A container below to catch the dead SLF for easy removal.
-This is better than the “status quo” because it eliminates SLF year-round without having to continuously spray.
-This is better than the “status quo”  because it does not require any changes to the harvester and saves money because it is a one-time purchase, not a yearly cost. 
+1. Towers with mechanical vibration devices to attract the SLF.
+2. An electrified outer cage to shock the SLF when they touch the trap.
+3. A container below to catch the dead SLF for easy removal.
+- This is better than the “status quo” because it eliminates SLF year-round without having to continuously spray.
+- This is better than the “status quo”  because it does not require any changes to the harvester and saves money because it is a one-time purchase, not a yearly cost. 
 
 Key risks / unknowns:
 
-Damage to grapes/vines.
-Test by seeing how much wind store-bought grapes can take before falling off the vine.
-Lanternflies getting stuck in the blower
-Test with different geometries of the mechanical design of the tube
-Blower’s force is not strong enough to detach lanternflies from grapes
-Take weight samples of lanternflies and their grab force to calculate the amount of wind force needed to remove them.
+1. Damage to grapes/vines.
+- Test by seeing how much wind store-bought grapes can take before falling off the vine.
+2. Lanternflies getting stuck in the blower
+- Test with different geometries of the mechanical design of the tube
+3. Blower’s force is not strong enough to detach lanternflies from grapes
+- Take weight samples of lanternflies and their grab force to calculate the amount of wind force needed to remove them.
 
 Our questions:
 
@@ -61,5 +61,6 @@ https://www.ars.usda.gov/research/publications/publication/?seqNo115=392118
 
 SLF needed to contaminate 1 kg slurry:
 Professor Steve Heim on Monday, February 9th during the PM lab section
+
 
 
