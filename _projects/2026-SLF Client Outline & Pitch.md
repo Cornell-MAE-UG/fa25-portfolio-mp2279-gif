@@ -6,7 +6,9 @@ image:
 ---
 
 SLF Mechanical Repellant from Grape Harvester
+
 Team Name: Lanternfly Killers 
+
 Client(s): Cornell CALS Extension / E\&J Gallo Winery / National Grape
 
 Problem Statement: 
@@ -59,4 +61,5 @@ https://www.ars.usda.gov/research/publications/publication/?seqNo115=392118
 
 SLF needed to contaminate 1 kg slurry:
 Professor Steve Heim on Monday, February 9th during the PM lab section
+
 
