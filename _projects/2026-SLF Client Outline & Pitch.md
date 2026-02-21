@@ -10,12 +10,15 @@ Team Name: Lanternfly Killers
 Client(s): Cornell CALS Extension / E\&J Gallo Winery / National Grape
 
 Problem Statement: 
+
 Just 1-2 adult spotted lantern flies (SLF) can taint a kilogram of grade slurry; with how prevalent they are, this can add up rapidly. Farmers are searching for ways of managing the SLF population without diminishing the potential crop yield. One way that the SLF population enters the crop yield is via the harvester during harvest. Finding a way to remove the flies off of the vines as the harvester intakes the grapes is important to prevent them from tainting the crop.
 
 Why it matters to the end user: 
+
 If we reduce the amount of SLF present in the crop yield, we will be able to help the farmers financially, since less crop will be thrown away due to SLF contamination. In addition, there will be less scarcity of grape products, since more products will make their way to the shelves, allowing businesses to not lose customers or profit. The consumers will also benefit from the lower costs associated with the abundance of grape products.
 
 Proposed Directions: 
+
 Concept A: Blower; A system of devices attached to the front of the harvester to blow the SLF off of the vines before they can enter the harvester. This could be similar to the end of a car wash, but less strong.
 Attached in front of the harvester pointing outward toward the grape vines. 
 A fan would blow a steady stream of air toward the vines, causing the SLF to fly outwards to avoid the irritation. 
@@ -31,6 +34,7 @@ This is better than the “status quo” because it eliminates SLF year-round wi
 This is better than the “status quo”  because it does not require any changes to the harvester and saves money because it is a one-time purchase, not a yearly cost. 
 
 Key risks / unknowns:
+
 Damage to grapes/vines.
 Test by seeing how much wind store-bought grapes can take before falling off the vine.
 Lanternflies getting stuck in the blower
@@ -39,6 +43,7 @@ Blower’s force is not strong enough to detach lanternflies from grapes
 Take weight samples of lanternflies and their grab force to calculate the amount of wind force needed to remove them.
 
 Our questions:
+
 1. When dealing with the SLFs, do they often stay on the vine when removing grapes?
 Decisions Affected: This would change our blower design, as we would need to prototype to make sure that we do not remove grapes as well as the SLFs.
 2. If SLF contamination occurs in grape products, do the machines in the processing facilities need to be shut down and cleaned afterwards?
@@ -47,10 +52,11 @@ Decisions Affected: While this would not directly affect our decision making, th
 Decisions Affected: If we are not able to place something in the field, we may not be able to implement our vibration solution in the currently intended method.
 
 
-Sources Cited
+Sources Cited:
 
 60 Hz vibration study:
 https://www.ars.usda.gov/research/publications/publication/?seqNo115=392118 
 
 SLF needed to contaminate 1 kg slurry:
 Professor Steve Heim on Monday, February 9th during the PM lab section
+
