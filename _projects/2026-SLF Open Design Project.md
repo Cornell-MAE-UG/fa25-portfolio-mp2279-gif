@@ -16,6 +16,7 @@ accordion:
     content: |
         Words words words testing
         <img src="/assets/images/AAA_Full_Table.JPG" class="project-image" alt="Table Image">
+        ![Testing2](/assets/images/AAA_Full_Table.JPG){: .project-image }
         Here is some explanatory text that wraps around the image.
   - title: Client Outline & Pitch
     content: |
