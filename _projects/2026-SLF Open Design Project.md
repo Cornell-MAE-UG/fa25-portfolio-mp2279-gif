@@ -7,7 +7,7 @@ image: /assets/images/ODP_main.png
 accordion:
   - title: "Test"
     content: |
-      <img src="/assets/images/AAA_Full_Table.JPG" class="project-image" alt="imageA">
+      <img src="/assets/images/AAA_Full_Table.JPG" class="project-image" alt="imageHEYYYYYYYYYYYYYYYYYYYYYYYYYYYYY">
       ![Frame Design when Actuator is at Full Extension]({{ "/assets/images/linear_actuator_sketch.JPG" | relative_url }}){: .inline-image-l}
   - title: Client Outline & Pitch
     content: |
