@@ -15,9 +15,19 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
       <input id="accordion{{ forloop.index }}" type="checkbox" />
       <label for="accordion{{ forloop.index }}">{{ item.title }}</label>
       <div class="post-content">
-        {% for img in item.images %}
-          <img src="{{ img.path | relative_url }}" alt="{{ img.alt }}" class="{{ img.class }}">
-        {% endfor %}
+
+        {# --- Text content first --- #}
+        {% if item.content %}
+          <p>{{ item.content | markdownify }}</p>
+        {% endif %}
+
+        {# --- Loop over images --- #}
+        {% if item.images %}
+          {% for img in item.images %}
+            <img src="{{ img.path | relative_url }}" alt="{{ img.alt }}" class="{{ img.class }}">
+          {% endfor %}
+        {% endif %}
+
       </div>
     </li>
   {% endfor %}
