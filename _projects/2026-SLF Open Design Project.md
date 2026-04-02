@@ -8,6 +8,7 @@ accordion:
   - title: "Test"
     content: |
       <img src="/assets/images/AAA_Full_Table.JPG" class="project-image" alt="imageA">
+      ![Frame Design when Actuator is at Full Extension]({{ "/assets/images/linear_actuator_sketch.JPG" | relative_url }}){: .inline-image-l}
   - title: Client Outline & Pitch
     content: |
     
