@@ -2,7 +2,7 @@
 layout: accordion
 title: Open Design Project
 description: Class Project, Intro to Mechanical Design
-image: 
+image: /assets/images/ODP_main.png
 
 accordion:
   - title: Client Outline & Pitch
