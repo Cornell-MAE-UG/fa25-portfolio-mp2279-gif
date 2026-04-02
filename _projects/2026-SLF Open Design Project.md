@@ -77,6 +77,27 @@ accordion:
 
         Timeline:
 
+        /assets/images/ODP_Timeline.png
+
+        Choosing Design Tests:
+    
+        What are you testing?
+    
+        	- the wind pressure/speed
+        	- shape of the end of funnel 
+        	- material analysis on the blower -> life cycle
+        	- amount of force/pattern is required to push off lantern flies
+    
+        How did you test it?
+    
+        	- wind speed: anemometer
+        	- wind pressure: computed from wind velocity, cross section surface area
+        	- shape of funnel: simulated from softwares (Fusion 360)
+        	- material analysis: Flex test with hand
+        	- required force/pattern: real life simulation with an insect (lantern fly)
+        		- modeled using “grapes” simulated with tape and string in addition to a cardboard lanternfly stuck onto the “vine” with tape
+
+
 
 ---  
 
