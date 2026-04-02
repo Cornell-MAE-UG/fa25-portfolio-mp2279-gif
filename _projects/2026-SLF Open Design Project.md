@@ -77,7 +77,7 @@ accordion:
 
         Timeline:
 
-         <img src="/assets/images/ODP_Timeline.png" alt="Timeline Poster" style="max-width:100%; height:auto;" />
+        ![Timeline](/assets/images/ODP_Timeline.png)
 
         Choosing Design Tests:
     
