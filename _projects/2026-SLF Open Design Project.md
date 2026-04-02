@@ -103,7 +103,7 @@ accordion:
 
 
         - shape of funnel: The circular funnel results in an even distribution of pressure. 
-	      - material analysis: The funnel (PLA) is slightly bendable by hand, which is acceptable for this prototype. However, this would need to be changed for a future prototype/final product.
+	    - material analysis: The funnel (PLA) is slightly bendable by hand, which is acceptable for this prototype. However, this would need to be changed for a future prototype/final product.
       	- required force/pattern: A sudden burst of air is more effective than a constant stream of air, given the “flighty” nature of the SLFs. 
 
 
