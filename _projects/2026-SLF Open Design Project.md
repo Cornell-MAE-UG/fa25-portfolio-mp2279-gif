@@ -89,11 +89,11 @@ accordion:
         - amount of force/pattern is required to push off lantern flies
     
         How did you test it?
-        	- wind speed: anemometer
-        	- wind pressure: computed from wind velocity, cross section surface area
-        	- shape of funnel: simulated from softwares (Fusion 360)
-        	- material analysis: Flex test with hand
-        	- required force/pattern: modeled using “grapes” simulated with tape and string in addition to a cardboard lanternfly stuck onto the “vine” with tape
+        - wind speed: anemometer
+        - wind pressure: computed from wind velocity, cross section surface area
+        - shape of funnel: simulated from softwares (Fusion 360)
+        - material analysis: Flex test with hand
+        - required force/pattern: modeled using “grapes” simulated with tape and string in addition to a cardboard lanternfly stuck onto the “vine” with tape
 
         What happened?
         - wind speed: The motor was powered by 5V through Arduino Uno Minima Rev4 and generated 3,500 RPM. We were not able to use an anemometer so we found rpm via marking a fan then taking a slow motion video and counting the fan blades to get roughly 3,500 RPM.
