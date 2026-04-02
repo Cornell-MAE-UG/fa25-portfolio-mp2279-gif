@@ -68,6 +68,7 @@ accordion:
   - title: Functional Prototype
     content: |
         Team M6: Lanternfly Killers
+    
         Team Members: Michelle Paszek, William Wood, Angus Chang, Gurjot Gill, Hayden Bergschneider
 
         Project Overview:
