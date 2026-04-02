@@ -89,7 +89,6 @@ accordion:
         - amount of force/pattern is required to push off lantern flies
     
         How did you test it?
-    
         	- wind speed: anemometer
         	- wind pressure: computed from wind velocity, cross section surface area
         	- shape of funnel: simulated from softwares (Fusion 360)
