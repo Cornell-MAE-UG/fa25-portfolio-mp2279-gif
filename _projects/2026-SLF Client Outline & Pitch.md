@@ -6,7 +6,9 @@ image:
 
 accordion:
   - title: Client Outline & Pitch
-    content: SLF Mechanical Repellant from Grape Harvester
+    content: |
+    
+    SLF Mechanical Repellant from Grape Harvester
 
     Team Name: Lanternfly Killers, Client(s): Cornell CALS Extension / E\&J Gallo Winery / National Grape
     
