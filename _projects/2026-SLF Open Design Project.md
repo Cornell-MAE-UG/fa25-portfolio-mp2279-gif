@@ -7,7 +7,7 @@ image: /assets/images/ODP_main.png
 accordion:
   - title: "Test"
     content: |
-      <img src="/assets/images/ODP_main.png" alt="image">
+      <img src="/assets/images/AAA_Full_Table.JPG" alt="image">
   - title: Client Outline & Pitch
     content: |
     
