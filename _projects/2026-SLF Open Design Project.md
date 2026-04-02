@@ -77,7 +77,7 @@ accordion:
 
         Timeline:
 
-        <img src="{{ '/assets/images/ODP_Timeline.png' | relative_url }}" alt="Timeline" style="max-width:100%; height:auto;" />
+        ![Timeline Poster]({{ '/assets/images/ODP_Timeline.png' | relative_url }})
 
         Choosing Design Tests:
     
