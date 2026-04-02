@@ -26,15 +26,7 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
       <label for="accordion{{ forloop.index }}">{{ item.title }}</label>
       <div class="post-content">
 
-        {% if item.content %}
-          <p>{{ item.content | markdownify }}</p>
-        {% endif %}
-
-        {% if item.images %}
-          {% for img in item.images %}
-            <img src="{{ img.path | relative_url }}" alt="{{ img.alt }}" class="{{ img.class }}">
-          {% endfor %}
-        {% endif %}
+        {{ item.content | markdownify }}
 
       </div>
     </li>
