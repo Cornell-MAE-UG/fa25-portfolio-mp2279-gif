@@ -1,10 +1,14 @@
 ---
-layout: project
-title: Client Outline & Pitch
+layout: accordion
+title: Open Design Project
 description: Class Project, Intro to Mechanical Design
 image: 
 ---
-
+  - title: Client Outline & Pitch
+    content: testing
+  - title: Functional Prototype
+    content: testing
+    
 SLF Mechanical Repellant from Grape Harvester
 
 Team Name: Lanternfly Killers, Client(s): Cornell CALS Extension / E\&J Gallo Winery / National Grape
