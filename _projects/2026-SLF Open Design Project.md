@@ -97,6 +97,25 @@ accordion:
         	- required force/pattern: real life simulation with an insect (lantern fly)
         		- modeled using “grapes” simulated with tape and string in addition to a cardboard lanternfly stuck onto the “vine” with tape
 
+        What happened?
+        - wind speed: The motor was powered by 5V through Arduino Uno Minima Rev4 and generated 3,500 RPM. We were not able to use an anemometer so we found rpm via marking a fan then taking a slow motion video and counting the fan blades to get roughly 3,500 RPM.
+        - wind inlet/outlet velocity relation: See calculations below
+
+
+        - shape of funnel: The circular funnel results in an even distribution of pressure. 
+	      - material analysis: The funnel (PLA) is slightly bendable by hand, which is acceptable for this prototype. However, this would need to be changed for a future prototype/final product.
+      	- required force/pattern: A sudden burst of air is more effective than a constant stream of air, given the “flighty” nature of the SLFs. 
+
+
+
+        Design changes/Improvements
+        - For better wind pressure/speed, we can add in a gearbox to the motor system to increase the speed of the fan. 
+        - We can add holes onto the bottom of the motor housing to increase the airflow and movement for the fan system (fan can draw in air from the outside).
+        - Need to increase the height of the side walls for the motor housing so that they encompass the fan blades properly
+        - We need to expand the hole sizes on the fan (for shaft), funnel (for tubing), and motor housing (for wire feedthroughs), since the tolerance was initially too small.
+        - Add a planetary gearbox to step up speed
+        - We can add in tube fittings to connect the nozzles to the tubing for a better connection/seal in order to prevent air from leaking.
+        - We can alter the fan blade design to optimize the air flow entering the tubing. Currently, the impeller pump we are using takes in air from the side with more air and pumps it to the other since the blades are symmetric, but the side with more air is the side where we want to push air out, so we should add holes in the back for superior airflow or make the entire back open and make a better funnel system	
 
 
 ---  
