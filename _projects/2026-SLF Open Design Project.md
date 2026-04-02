@@ -77,7 +77,7 @@ accordion:
 
         Timeline:
 
-        ![Timeline](/assets/images/ODP_Timeline.png)
+        ![TimelinePhoto](/assets/images/ODP_Timeline.png)
 
         Choosing Design Tests:
     
