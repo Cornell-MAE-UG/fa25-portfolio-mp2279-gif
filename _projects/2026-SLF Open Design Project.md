@@ -6,9 +6,14 @@ image: /assets/images/ODP_main.png
 
 accordion:
   - title: "Test"
-    content: |
-      <img src="/assets/images/AAA_Full_Table.JPG" class="project-image" alt="imageHEYYYYYYYYYYYYYYYYYYYYYYYYYYYYY">
-      ![Frame Design when Actuator is at Full Extension]({{ "/assets/images/linear_actuator_sketch.JPG" | relative_url }}){: .inline-image-l}
+    images:
+      - path: "/assets/images/AAA_Full_Table.JPG"
+        alt: "Main Table Image"
+        class: "project-image"
+      - path: "/assets/images/linear_actuator_sketch.JPG"
+        alt: "Frame Design when Actuator is at Full Extension"
+        class: "inline-image-l"
+    content: Testing
   - title: Client Outline & Pitch
     content: |
     
