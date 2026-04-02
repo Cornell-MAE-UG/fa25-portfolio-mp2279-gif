@@ -77,7 +77,7 @@ accordion:
 
         Timeline:
 
-        <img src="{{ '/assets/images/ODP_Timeline.png' | relative_url }}" alt="Timeline3" />
+        <img src="{{ '/assets/images/ODP_Timeline.png' | relative_url }}" alt="Timeline" />
 
         Choosing Design Tests:
     
