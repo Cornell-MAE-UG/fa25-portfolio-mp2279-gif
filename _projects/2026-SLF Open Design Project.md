@@ -77,7 +77,7 @@ accordion:
 
         Timeline:
 
-        ![Timeline Poster]({{ '/assets/images/ODP_Timeline.png' | relative_url }})
+        ![Timeline Poster](/assets/images/ODP_Timeline.png)
 
         Choosing Design Tests:
     
