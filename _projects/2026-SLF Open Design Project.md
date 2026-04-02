@@ -5,6 +5,9 @@ description: Class Project, Intro to Mechanical Design
 image: /assets/images/ODP_main.png
 
 accordion:
+  - title: "Test"
+    content: |
+      <img src="/assets/images/ODP_main.png">
   - title: Client Outline & Pitch
     content: |
     
