@@ -67,7 +67,7 @@ accordion:
         Professor Steve Heim on Monday, February 9th during the PM lab section
   - title: Functional Prototype
     content: |
-        "Team M6: Lanternfly Killers
+        Team M6: Lanternfly Killers
     
         Team Members: Michelle Paszek, William Wood, Angus Chang, Gurjot Gill, Hayden Bergschneider
 
@@ -126,7 +126,7 @@ accordion:
 
         Final Product Sketch: See Figure 5.
 
-        Assembly Instructions: See Figure 6."
+        Assembly Instructions: See Figure 6.
 
     
     images:
