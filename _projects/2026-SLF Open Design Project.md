@@ -67,7 +67,7 @@ accordion:
         Professor Steve Heim on Monday, February 9th during the PM lab section
   - title: Functional Prototype
     content: |
-        Team M6: Lanternfly Killers
+        "Team M6: Lanternfly Killers
     
         Team Members: Michelle Paszek, William Wood, Angus Chang, Gurjot Gill, Hayden Bergschneider
 
@@ -113,7 +113,7 @@ accordion:
         - We can alter the fan blade design to optimize the air flow entering the tubing. Currently, the impeller pump we are using takes in air from the side with more air and pumps it to the other since the blades are symmetric, but the side with more air is the side where we want to push air out, so we should add holes in the back for superior airflow or make the entire back open and make a better funnel system
 
         Success Criteria:
-        - In order to dispel the lantern flies from the intake of the harvester, must be able to blow off lantern flies on the vine. Must be able to blow off adult spotted lanternflies (on average mean weight is .331 grams)
+        - In order to dispel the lantern flies from the intake of the harvester, must be able to blow off lantern flies on the vine. Must be able to blow off adult spotted lanternflies (on average mean weight is .331 grams [Source](https://www.stopslf.org/stopslf/assets/File/Spotted-Lanternfly-RTD-Proceedings-Oct-2024.pdf)).
         - The blower does not deviate more than 10 degrees from its original position when in use. EG firmly mounted and stiff materials for the funnel.
         - The blower will be simplified to 1 unit to attach to the harvester.
         - The blower will be able to stop and start in less than 1 second to blow a quick burst of air, causing the SLF to fly away.
@@ -126,7 +126,7 @@ accordion:
 
         Final Product Sketch: See Figure 5.
 
-        Assembly Instructions: See Figure 6.
+        Assembly Instructions: See Figure 6."
 
     
     images:
