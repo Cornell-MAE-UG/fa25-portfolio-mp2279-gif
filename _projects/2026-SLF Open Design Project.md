@@ -5,14 +5,6 @@ description: Class Project, Intro to Mechanical Design
 image: /assets/images/ODP_main.png
 
 accordion:
-  - title: "Test"
-    images:
-      - path: "/assets/images/AAA_Full_Table.JPG"
-        alt: "Main Table Image"
-        class: "project-image"
-      - path: "/assets/images/linear_actuator_sketch.JPG"
-        alt: "Frame Design when Actuator is at Full Extension"
-        class: "inline-image-l"
   - title: Client Outline & Pitch
     content: |
     
@@ -122,7 +114,25 @@ accordion:
         - Add a planetary gearbox to step up speed
         - We can add in tube fittings to connect the nozzles to the tubing for a better connection/seal in order to prevent air from leaking.
         - We can alter the fan blade design to optimize the air flow entering the tubing. Currently, the impeller pump we are using takes in air from the side with more air and pumps it to the other since the blades are symmetric, but the side with more air is the side where we want to push air out, so we should add holes in the back for superior airflow or make the entire back open and make a better funnel system	
-
+    images:
+      - path: "/assets/images/ODP_F1.jpg"
+        alt: "Timeline"
+        class: "project-image"
+      - path: "/assets/images/ODP_F2.jpg"
+        alt: "Wind Inlet/Outlet Velocity Ratios"
+        class: "project-image"
+      - path: "/assets/images/ODP_F3.jpg"
+        alt: "Components List"
+        class: "project-image"
+      - path: "/assets/images/ODP_F4.jpg"
+        alt: "CAD Design Documentation"
+        class: "project-image"
+      - path: "/assets/images/ODP_F5.jpg"
+        alt: "Final Design Sketch"
+        class: "project-image"
+      - path: "/assets/images/ODP_F6.jpg"
+        alt: "Assembly Instructions"
+        class: "project-image"
 
 ---  
 
