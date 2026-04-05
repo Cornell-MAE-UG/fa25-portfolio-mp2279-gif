@@ -61,7 +61,7 @@ accordion:
         Sources Cited:
         
         60 Hz vibration study:
-        https://www.ars.usda.gov/research/publications/publication/?seqNo115=392118 
+        [Source](https://www.ars.usda.gov/research/publications/publication/?seqNo115=392118 )
         
         SLF needed to contaminate 1 kg slurry:
         Professor Steve Heim on Monday, February 9th during the PM lab section
