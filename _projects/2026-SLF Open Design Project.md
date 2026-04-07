@@ -75,7 +75,7 @@ accordion:
     
         Our plan is to design and assemble a blower mechanism that will be attached to the front of the grape harvester. This device is meant to cause the Spotted Lanternflies (SLF)  to be blown off of the grape vine before the grapes enter the harvester. According to the client feedback that we received from the experts, this is a solid proposal since harvesters already have fans installed to blow off leaves and MOG (material other than grapes), so additional fans on the front of the harvester is feasible with little risk to the grape vine. SLFs are very flighty insects, so a strong enough fan may motivate them to vacate the row being harvested, and our method avoids additional labor (due to our single time installation and lack of tractor passes needed) and pesticides that could potentially impact the vine.
 
-        Timeline: See Figure 1 below.
+        Timeline: See Figure 1.
 
         Choosing Design Tests:
     
