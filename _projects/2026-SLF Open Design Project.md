@@ -5,7 +5,7 @@ description: Class Project, Intro to Mechanical Design
 image: /assets/images/ODP_main.png
 
 accordion:
-  - title: Client Outline & Pitch
+  - title: Client Pitch
     content: |
     
         SLF Mechanical Repellant from Grape Harvester
