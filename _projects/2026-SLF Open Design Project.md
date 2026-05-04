@@ -152,7 +152,7 @@ accordion:
 
   - title: Final Project Poster
     images:
-      - path: "/assets/images/ODP_F1.jpg"
+      - path: "/assets/images/MAE2250_Final_Poster"
         alt: "Final Poster"
         class: "project-image"
 
