@@ -177,7 +177,7 @@ accordion:
         
         We were able to successfully meet our three criteria for success:
         
-        Wind speed: We used an anemometer to find the speed of airflow output from our device. We set up two fixed sensors at the outlet and take the average of the measured wind velocity. We also ran wind tunnel simulation via Simscale on the funnel to estimate the aerodynamic properties.
+        Wind speed: We used an anemometer to find the speed of airflow output from our device. We set up two fixed sensors at the outlet and take the average of the measured wind velocity. We also ran wind tunnel simulation via Simscale on the funnel to estimate the aerodynamic properties. See Figure 1 for nozzle pressure analysis.
         - Inlet Velocity:  3.1 m/s
         - Max Speed:  10.28 m/s
         - Max Pressure: 191.18 Pa
@@ -185,7 +185,7 @@ accordion:
         - The wind speed was 10.28 m/s which was able to displace 23,743 cm3/s which is more than our value of 1,000 cm3/s
 
     
-        Material Strength: Motor housing integrity was testing using force gauges, showing completely elastic deformation after 177 Newtons of force was applied. Due to lab limitations, we were not able to reach the breaking point of material. Further research showed that PLA has a tensile strength of 40-60 MPa. Our PLA motor setup is able to handle the estimated vibration force of 150 Newtons, similar to the forces the system would experience while in use.
+        Material Strength: Motor housing integrity was testing using force gauges, showing completely elastic deformation after 177 Newtons of force was applied. Due to lab limitations, we were not able to reach the breaking point of material. Further research showed that PLA has a tensile strength of 40-60 MPa. Our PLA motor setup is able to handle the estimated vibration force of 150 Newtons, similar to the forces the system would experience while in use. See Figure 2 for material testing setup.
     
         Knocking Flies off: We fabricated a mock grape vine and lanternfly setup, testing the effectiveness of the nozzle shape. It took ~1-2 sec. of blowing air to knock off the lanternflies, demonstrating the viability of our product. [Testing Success Criteria of Blowing Off Lanternflies](https://drive.google.com/file/d/1qdeoUgtQC9aZqwdsxX5bsleziYMTCLx7/view?usp=sharing).
     
@@ -204,12 +204,14 @@ accordion:
         
         4/20/26:
         	We constructed our final prototype by installing the directional fan blade, the motor, and the new motor housing and funnel. After fully constructing the final prototype, we tested the blade turning on and off using an arduino, the wind speed using an anemometer, and the material strength using a spring force sensor.
+
+        See Figure 3 for design documentation.
     
         
         
         Conclusion and Recommendation:
     
-        We have determined that this is a viable product based on our tests, both in its effectiveness and its low cost of $54.74. Next steps would be further testing to determine if it is effective on a living lanternfly and not just our model. Also testing on a moving grape in a combine harvester. All we have proven is that this product is viable and not that it is inherently usable in its current state. It would also be beneficial to build a much larger fan system (maybe utilize compressed air) and have it hooked up to multiple blowers and see how that fairs.
+        We have determined that this is a viable product based on our tests, both in its effectiveness and its low cost of $54.74. See Figure 4 for bill of materials. Next steps would be further testing to determine if it is effective on a living lanternfly and not just our model. Also testing on a moving grape in a combine harvester. All we have proven is that this product is viable and not that it is inherently usable in its current state. It would also be beneficial to build a much larger fan system (maybe utilize compressed air) and have it hooked up to multiple blowers and see how that fairs.
 
 
         References:
@@ -221,12 +223,20 @@ accordion:
         [Properties of PLA](https://plamfg.com/blog/properties-of-polylactic-acid/).
 
         
-
-
-
-
     
     images:
+      - path: "/assets/images/MAE2250_Final_Poster"
+        alt: "Vertical and Horizontal Pressure Analysis of the Nozzle"
+        class: "project-image"
+      - path: "/assets/images/MAE2250_Final_Poster"
+        alt: "Material Strength Test of Motor Housing"
+        class: "project-image"
+      - path: "/assets/images/MAE2250_Final_Poster"
+        alt: "Design Documentation"
+        class: "project-image"
+      - path: "/assets/images/MAE2250_Final_Poster"
+        alt: "Bill of Materials"
+        class: "project-image"
 
 
     
