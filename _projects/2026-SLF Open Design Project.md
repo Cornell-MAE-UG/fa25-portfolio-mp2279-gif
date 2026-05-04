@@ -150,6 +150,13 @@ accordion:
         alt: "Assembly Instructions"
         class: "project-image"
 
+  - title: Final Project Poster
+    images:
+      - path: "/assets/images/ODP_F1.jpg"
+        alt: "Final Poster"
+        class: "project-image"
+
+
 ---  
 
 
