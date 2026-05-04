@@ -209,13 +209,27 @@ accordion:
         
         Conclusion and Recommendation:
     
-        We have determined that this is a viable product based on our tests. Next steps would be further testing to determine if it is effective on a living lanternfly and not just our model. Also testing on a moving grape in a combine harvester. All we have proven is that this product is viable and not that it is inherently usable in its current state. It would also be beneficial to build a much larger fan system (maybe utilize compressed air) and have it hooked up to multiple blowers and see how that fairs.
+        We have determined that this is a viable product based on our tests, both in its effectiveness and its low cost of $54.74. Next steps would be further testing to determine if it is effective on a living lanternfly and not just our model. Also testing on a moving grape in a combine harvester. All we have proven is that this product is viable and not that it is inherently usable in its current state. It would also be beneficial to build a much larger fan system (maybe utilize compressed air) and have it hooked up to multiple blowers and see how that fairs.
+
+
+        References:
+    
+        SLF needed to contaminate 1 kg slurry: Professor Steve Heim on Monday, February 9th during the PM lab section
+
+        [Mean Weight of Lanternflies](https://www.stopslf.org/stopslf/assets/File/Spotted-Lanternfly-RTD-Proceedings-Oct-2024.pdf).
+    
+        [Properties of PLA](https://plamfg.com/blog/properties-of-polylactic-acid/).
+
+        
 
 
 
 
     
     images:
+
+
+    
 
   - title: Final Project Poster
     images:
