@@ -231,7 +231,7 @@ accordion:
       - path: "/assets/images/MaterialStrengthTest.png"
         alt: "Material Strength Test of Motor Housing"
         class: "project-image"
-      - path: "/assets/images/MAE2250_Final_Poster"
+      - path: "/assets/images/MAE2250_DesignArchive.png"
         alt: "Design Documentation"
         class: "project-image"
       - path: "/assets/images/BillofMaterials.png"
