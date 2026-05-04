@@ -184,6 +184,8 @@ accordion:
         - Dynamic Pressure: 183.75 Pa
         - The wind speed was 10.28 m/s which was able to displace 23,743 cm3/s which is more than our value of 1,000 cm3/s
 
+
+
     
         Material Strength: Motor housing integrity was testing using force gauges, showing completely elastic deformation after 177 Newtons of force was applied. Due to lab limitations, we were not able to reach the breaking point of material. Further research showed that PLA has a tensile strength of 40-60 MPa. Our PLA motor setup is able to handle the estimated vibration force of 150 Newtons, similar to the forces the system would experience while in use. See Figure 2 for material testing setup.
     
@@ -222,7 +224,7 @@ accordion:
     
         [Properties of PLA](https://plamfg.com/blog/properties-of-polylactic-acid/).
 
-        
+        Figures:
     
     images:
       - path: "/assets/images/NozzleAnalysis.png"
