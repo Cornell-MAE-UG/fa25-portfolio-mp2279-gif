@@ -225,16 +225,16 @@ accordion:
         
     
     images:
-      - path: "/assets/images/MAE2250_Final_Poster"
+      - path: "/assets/images/NozzleAnalysis.png"
         alt: "Vertical and Horizontal Pressure Analysis of the Nozzle"
         class: "project-image"
-      - path: "/assets/images/MAE2250_Final_Poster"
+      - path: "/assets/images/MaterialStrengthTest.png"
         alt: "Material Strength Test of Motor Housing"
         class: "project-image"
       - path: "/assets/images/MAE2250_Final_Poster"
         alt: "Design Documentation"
         class: "project-image"
-      - path: "/assets/images/MAE2250_Final_Poster"
+      - path: "/assets/images/BillofMaterials.png"
         alt: "Bill of Materials"
         class: "project-image"
 
