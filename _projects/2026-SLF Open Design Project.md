@@ -150,6 +150,70 @@ accordion:
         alt: "Assembly Instructions"
         class: "project-image"
 
+
+  - title: Client Report
+    content: |
+    
+    SLF Mechanical Repellant from Grape Harvester
+    Team Name: Lanternfly Killers 
+    Team Members: Michelle Paszek, Will Wood, Angus Chang, Gurjot Gill, Hayden Bergschneider 
+    Client(s): Cornell CALS Extension / E\&J Gallo Winery / National Grape
+
+    
+    Context and Problem Statement:
+    
+    The problem we chose to focus on was stopping the spotted lantern flies from entering the harvester and tainting the product. Just 1 to 2 SLF’s in a kilogram grape slurry can taint the batch. By choosing to stop them before the harvesting process, we also stop the need to sort out SLF’s from the harvest and prevent any damage they may cause.
+
+    
+    Final Prototype and Application:
+    
+    We built a blower system to be mounted onto a Grape harvester. The blower system would be used to send air in bursts to simultaneously agitate the SLF on the vine and physically blow them off the vines without ejecting too much air, keeping the grapes on the vine. This would be a low cost, low effort, and low maintenance device to be easily mounted onto the grape harvester which would not interfere with the main use of the harvester itself or with the operator using it.
+
+    
+    Testing and Results:
+    
+    We were able to successfully meet our three criteria for success:
+    
+    Wind speed: We used an anemometer to find the speed of airflow output from our device. We set up two fixed sensors at the outlet and take the average of the measured wind velocity. We also ran wind tunnel simulation via Simscale on the funnel to estimate the aerodynamic properties.
+    Inlet Velocity:  3.1 m/s
+    Max Speed:  10.28 m/s
+    Max Pressure: 191.18 Pa
+    Dynamic Pressure: 183.75 Pa
+    The wind speed was 10.28 m/s which was able to displace 23,743 cm3/s which is more than our value of 1,000 cm3/s
+
+    Material Strength: Motor housing integrity was testing using force gauges, showing completely elastic deformation after 177 Newtons of force was applied. Due to lab limitations, we were not able to reach the breaking point of material. Further research showed that PLA has a tensile strength of 40-60 MPa. Our PLA motor setup is able to handle the estimated vibration force of 150 Newtons, similar to the forces the system would experience while in use.
+
+    Knocking Flies off: We fabricated a mock grape vine and lanternfly setup, testing the effectiveness of the nozzle shape. It took ~1-2 sec. of blowing air to knock off the lanternflies, demonstrating the viability of our product. [Testing Success Criteria of Blowing Off Lanternflies](https://drive.google.com/file/d/1qdeoUgtQC9aZqwdsxX5bsleziYMTCLx7/view?usp=sharing).
+
+
+
+    Prototype and Testing Details:
+    
+    3/31/26:
+    	Our initial design was not able to produce enough thrust on its own to be able to blow off the flies. We fixed this by supplying a higher voltage to the motor and also adjusting the housing to allow for more airflow into the device itself. We also adjusted the fan size and specs to allow for greater airflow into the device. We were able to build our testing apparatus and prove that air can blow off lanternflies showing our proposed idea is feasible, but we still hadn’t ironed out our design.
+    
+    4/6/26:
+    	We began to overhaul our entire design and remake the system to fit these new design ideas of different directional fan-blades and more airflow getting to the fan blade. We also platted around with the idea of implementing a gear box, but we determined that they weren’t necessary for our design considering the fan speeds we were able to reach. Not much physically built.
+    
+    4/13/26:
+    	We continued to prototype our device by modeling the entire mechanism in Fusion to be 3D printed and ordered the parts as well as specc’d the entire system for the power circuit.
+    
+    4/20/26:
+    	We constructed our final prototype by installing the directional fan blade, the motor, and the new motor housing and funnel. After fully constructing the final prototype, we tested the blade turning on and off using an arduino, the wind speed using an anemometer, and the material strength using a spring force sensor.
+
+    
+    
+    Conclusion and Recommendation:
+
+    
+    	We have determined that this is a viable product based on our tests. Next steps would be further testing to determine if it is effective on a living lanternfly and not just our model. Also testing on a moving grape in a combine harvester. All we have proven is that this product is viable and not that it is inherently usable in its current state. It would also be beneficial to build a much larger fan system (maybe utilize compressed air) and have it hooked up to multiple blowers and see how that fairs.
+
+
+
+
+    
+    images:
+
   - title: Final Project Poster
     images:
       - path: "/assets/images/MAE2250_Final_Poster"
