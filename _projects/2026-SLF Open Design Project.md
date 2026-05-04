@@ -155,8 +155,11 @@ accordion:
     content: |
     
         SLF Mechanical Repellant from Grape Harvester
-        Team Name: Lanternfly Killers 
-        Team Members: Michelle Paszek, Will Wood, Angus Chang, Gurjot Gill, Hayden Bergschneider 
+    
+        Team Name: Lanternfly Killers
+    
+        Team Members: Michelle Paszek, Will Wood, Angus Chang, Gurjot Gill, Hayden Bergschneider
+    
         Client(s): Cornell CALS Extension / E\&J Gallo Winery / National Grape
     
         
@@ -175,11 +178,11 @@ accordion:
         We were able to successfully meet our three criteria for success:
         
         Wind speed: We used an anemometer to find the speed of airflow output from our device. We set up two fixed sensors at the outlet and take the average of the measured wind velocity. We also ran wind tunnel simulation via Simscale on the funnel to estimate the aerodynamic properties.
-        Inlet Velocity:  3.1 m/s
-        Max Speed:  10.28 m/s
-        Max Pressure: 191.18 Pa
-        Dynamic Pressure: 183.75 Pa
-        The wind speed was 10.28 m/s which was able to displace 23,743 cm3/s which is more than our value of 1,000 cm3/s
+        - Inlet Velocity:  3.1 m/s
+        - Max Speed:  10.28 m/s
+        - Max Pressure: 191.18 Pa
+        - Dynamic Pressure: 183.75 Pa
+        - The wind speed was 10.28 m/s which was able to displace 23,743 cm3/s which is more than our value of 1,000 cm3/s
     
         Material Strength: Motor housing integrity was testing using force gauges, showing completely elastic deformation after 177 Newtons of force was applied. Due to lab limitations, we were not able to reach the breaking point of material. Further research showed that PLA has a tensile strength of 40-60 MPa. Our PLA motor setup is able to handle the estimated vibration force of 150 Newtons, similar to the forces the system would experience while in use.
     
@@ -205,8 +208,7 @@ accordion:
         
         Conclusion and Recommendation:
     
-        
-        	We have determined that this is a viable product based on our tests. Next steps would be further testing to determine if it is effective on a living lanternfly and not just our model. Also testing on a moving grape in a combine harvester. All we have proven is that this product is viable and not that it is inherently usable in its current state. It would also be beneficial to build a much larger fan system (maybe utilize compressed air) and have it hooked up to multiple blowers and see how that fairs.
+        We have determined that this is a viable product based on our tests. Next steps would be further testing to determine if it is effective on a living lanternfly and not just our model. Also testing on a moving grape in a combine harvester. All we have proven is that this product is viable and not that it is inherently usable in its current state. It would also be beneficial to build a much larger fan system (maybe utilize compressed air) and have it hooked up to multiple blowers and see how that fairs.
 
 
 
