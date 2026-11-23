@@ -3,8 +3,8 @@ layout: project
 title: Fluid Mechanics Dissection
 description: Class Project, Introductory Fluid Mechanics
 technologies: [Mechanical Dissection]
-image: /assets/images/Axle_the_Axolotl.jpeg
+image: /assets/images/FMD_cover.png
 ---
-
-This is a temporary placeholder for the upcoming Fluid Mechanics Dissection
+Bin 304: Poulan Pro 550 Lawnmover
+Group Members: Michelle Paszek, Madeline Mezynski, Anthony Wang, Hillary Browne, Adam Zakhir
 
