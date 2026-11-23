@@ -9,3 +9,6 @@ Bin 304: Poulan Pro 550 Lawnmover
 
 Group Members: Michelle Paszek, Madeline Mezynski, Anthony Wang, Hillary Browne, Adam Zakhir
 
+
+
+We are taking apart the Poulan Pro 550 Lawnmover, specifically focusing on dissecting its engine.
